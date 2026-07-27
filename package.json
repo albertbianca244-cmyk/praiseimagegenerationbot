@@ -1,4 +1,5 @@
-name": "praise-image-generation-bot",
+{
+  "name": "praise-image-generation-bot",
   "version": "1.0.0",
   "description": "Telegram bot for AI image generation",
   "main": "index.js",
